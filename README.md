@@ -190,7 +190,7 @@ You can access the hosted version of the application here: http://apps.technical
 ```
 Note: Try to open through HTTP port, not HTTPS.
 ```
-**Video Submission Drive Link :** [Click here to view video](https://drive.google.com/file/d/1yFGqz1KzWulBHc4r99BAFEU1l_jFAO-g/view?usp=drivesdk)
+**Video Submission Drive Link :** [Click here to view video](https://drive.google.com/file/d/1zeqptjN3Im-yT6mpwpaqSchqYDzAhp_G/view?usp=sharing)
 
 **Prototype Submission Link :**
 [Click here to view the Figma prototype](https://www.figma.com/design/7lnX2yVaXxM9ReoiI4mVrz/Untitled?node-id=0-1&t=onqGGS0TaqKKyuFT-1)

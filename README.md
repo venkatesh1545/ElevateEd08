@@ -186,7 +186,7 @@ python app.py
 - Then, click on this [link](localhost/ElevateEdNew)
 
 ## Hosted Link
-You can access the hosted version of the application here: http://apps.technicalhub.io:5002/ElevateEdNew/
+You can access the hosted version of the application here: http://apps.technicalhub.io:5002/ElevateEd08/
 ```
 Note: Try to open through HTTP port, not HTTPS.
 ```

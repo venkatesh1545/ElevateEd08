@@ -139,7 +139,7 @@ Transform your learning into career success with industry-recognized certificati
 
 - Download **Python** [from here](https://www.python.org/downloads/)
 - Download **PHP** [from here](https://windows.php.net/download#php-8.4)
-- Download **XXAMP** [from here](https://www.apachefriends.org/download.html)
+- Download **XAMPP** [from here](https://www.apachefriends.org/download.html)
 
 1. **Clone the Repository**:
 
